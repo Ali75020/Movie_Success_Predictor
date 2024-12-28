@@ -106,4 +106,3 @@ After model selection, we conducted an additional step to enhance interpretabili
 ##
 
 This approach clarified which features most directly influence revenue, informing actionable insights for stakeholders aiming to maximize their movie's financial success. By understanding the impact of key variables, production companies can make informed decisions to optimize their movie's performance and profitability.
-```
