@@ -35,31 +35,33 @@ Note : Please download all the folder 'data', and not only the csv file, you'll 
 
 The dataset we used includes a lot of information about different movies, such as:
 
-- **id**: Unique identifier for each movie in TMDB.
-- **title**: The official title of the movie.
-- **vote_average**: Average rating of the movie out of 10 on TMDB.
-- **vote_count**: Number of votes contributing to the rating on TMDB.
-- **status**: Current release status (e.g., Released, Post Production).
-- **release_date**: Official release date of the movie.
-- **revenue**: Box office earnings.
-- **runtime**: Length of the movie in minutes.
 - **budget**: The budget allocated for the movie.
-- **imdb_id**: IMDb identifier.
-- **original_language**: Original production language.
-- **original_title**: The movie's original title.
-- **overview**: A brief summary of the plot.
-- **popularity**: Popularity score on TMDB.
-- **tagline**: Official tagline of the movie.
-- **genres**: The genres that the movie belongs to.
-- **production_companies**: Companies involved in making the movie.
-- **production_countries**: Countries where the movie was produced.
-- **spoken_languages**: Languages spoken in the movie.
 - **cast**: All cast members.
 - **director**: All directors of the movie.
 - **director_of_photography**: Cinematographers (Directors of Photography).
-- **writers**: All writers involved.
-- **producers**: Producers and executive producers.
+- **genres**: The genres that the movie belongs to.
+- **id**: Unique identifier for each movie in TMDB.
+- **imdb_id**: A unique identifier for the movie on IMDb.
+- **imdb_rating**: The average user rating for the movie on IMDb, based on user-submitted ratings.
+- **imdb_votes**: The total number of user votes for the movie on IMDb.
 - **music_composer**: Music composer(s).
+- **original_language**: Original production language.
+- **original_title**: The movie's original title.
+- **overview**: A brief summary of the plot.
+- **popularity**: A proprietary metric from TMDB representing the overall popularity of the movie, calculated using user interactions, page views, and other data.
+- **producers**: Producers and executive producers.
+- **production_companies**: Companies involved in making the movie.
+- **production_countries**: Countries where the movie was produced.
+- **release_date**: Official release date of the movie.
+- **revenue**: Box office earnings.
+- **runtime**: Length of the movie in minutes.
+- **spoken_languages**: Languages spoken in the movie.
+- **status**: Current release status (e.g., Released, Post Production).
+- **tagline**: Official tagline of the movie.
+- **title**: The official title of the movie.
+- **vote_average**: Average rating of the movie out of 10 on TMDB.
+- **vote_count**: Number of votes contributing to the rating on TMDB.
+- **writers**: All writers involved.
 
 ## Baseline Model
 
