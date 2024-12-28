@@ -2,7 +2,7 @@
 
 ## Albert School
 
-**Team Members**: Ali CHERIFI ALAOUI, Fodié NIAKATE
+**Authors**: Ali CHERIFI ALAOUI, Fodié NIAKATE
 
 ### Table of Contents
 
